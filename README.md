@@ -5,4 +5,9 @@
 HELLO WORLD
 
 
+
+
+today we learn how to use git,  github and VS CODE
+
+
 Last update: April 7th
