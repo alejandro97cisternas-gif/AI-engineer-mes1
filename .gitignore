@@ -1,0 +1,11 @@
+# Ignorar secretos
+.env
+
+# Ignorar entorno virtual
+env/
+venv/
+__pycache__/
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
